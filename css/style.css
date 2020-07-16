@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Fira+Code:300,regular,500,600,700");
+
+*{
+  padding:0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#bootstrap-override{
+  font-family: 'Fira Code', monospace;
+}
+
+.infoGraphic{
+  background : white;
+  padding: 10px;
+  box-shadow: 10px 10px;
+}
+
+.tooltipBox{
+  background-color: yellow;
+  text-align: center;
+  padding: 3px;
+  margin: 1px;
+  color: black;  
+}
+
+.bar{
+  fill: #303F9F;
+}
+
+.bar:hover{
+  fill-opacity: 0.6;
+}
+
+.btn {
+  margin: 0 auto;
+}
